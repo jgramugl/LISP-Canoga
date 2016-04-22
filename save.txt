@@ -1,0 +1,23 @@
+(
+  ; Computer:
+  (
+    ; Squares:
+    (1 2 3 4 5 * * 8 9 10)
+    ;Score:
+    41
+  )
+
+  ; Human:
+  (
+    ; Squares:
+    (* 2 * * * * * * * *)
+    ; Score:
+    0
+  )
+
+  ;First Turn:
+  COMPUTER
+
+  ;Next Turn:
+  COMPUTER
+)
